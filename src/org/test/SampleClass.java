@@ -11,7 +11,9 @@ public class SampleClass {
 		System.out.println("The value of num *2 is");
 		System.out.println(a);
 		b=num*5;
-		System.out.println("the value of num *5 is");
+		int c=30;
+		System.out.println(c);
+	    System.out.println("the value of num *5 is");
 		System.out.println(b);
 		
 		
